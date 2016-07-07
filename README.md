@@ -1,2 +1,2 @@
-# CleanYourShoes
-A Footwear Literacy Project
+# CleancYourcShoes
+A Footwear Literacy Project meant to spread proper shoe cleaning knowledge.
