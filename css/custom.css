@@ -1,0 +1,69 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-color: #405575;
+	color: white;
+	height: 100%;
+	font-family: 'MontrealRegular';
+	font-weight: normal;
+	font-style: normal;
+}
+
+.title {
+	text-align: center;
+	font-size: 100px;
+	/* 	font-family: 'Bungee Shade', cursive; */
+	font-family: 'Shrikhand', cursive;
+	font-weight: normal;
+	font-style: normal;
+	color: #405575;
+	background-color: #F4D894;
+}
+
+.menu {
+	color: white;
+}
+
+a:hover {
+	color: #F4D894;
+	text-decoration: none;
+}
+
+a {
+	transition: color 0.5s ease;
+	color: white;
+}
+
+p {
+	font-family: 'MontrealRegular';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 20px;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+.links{
+	font-family: 'Shrikhand', cursive;
+	font-weight: normal;
+	font-style: normal;
+	color: white;
+}
+
+.outsideLink{
+	transition: color 0.5s ease;
+	color: #D0C9AD;
+	text-decoration: underline;
+}
+
+.outsideLink:hover{
+	color: #C7A865;
+	text-decoration: underline;
+}
+
+.outsideLink:visited{
+	color: #D0B476;
+	text-decoration: underline;
+}
